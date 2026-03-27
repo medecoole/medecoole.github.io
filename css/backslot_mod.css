@@ -53,6 +53,20 @@ a {
 	object-fit: cover;
     margin-top: 90px;
 }
+.backslot_mod_header img {
+    border-radius: 10px;
+}
 h1 {
     margin-top: 90px;
+}
+.information_block {
+    justify-self: center;
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 3px;
+    border-radius: 10px;
+	background-color: rgb(150, 190, 219);
+    margin: 10px;
+    padding: 15px;
+    width: 75vw;
 }
