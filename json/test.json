@@ -1,9 +1,9 @@
 {
     "medecoole" : {
         "backslot_item":"minecraft:diamond",
-        "head_model":"minecraft:diamond_block"
+        "head_model":"minecraft:grass_block"
     },
     "mikeiscooler" : {
-        "backslot_item":"minecraft:diamond"
+        "backslot_item":"minecraft:diamond_sword"
     }
 }
