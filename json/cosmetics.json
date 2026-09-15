@@ -6,5 +6,6 @@
         "right_arm_model":"minecraft:mace"
     },
     "mikeiscooler" : {
+        "head_model":"minecraft:dirt",
     }
 }
