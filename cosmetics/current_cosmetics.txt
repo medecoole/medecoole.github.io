@@ -1,0 +1,2 @@
+Current cosmetics:
+- "cosmetics:wings_arthys"
