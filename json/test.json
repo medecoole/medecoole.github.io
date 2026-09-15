@@ -1,13 +1,9 @@
 {
-    "players" : [
-        {
-        "medecoole" : {
-            "backslot_item":"minecraft:diamond",
-            "head_model":"minecraft:diamond_block"
-        },
-        "mikeiscooler" : {
-            "backslot_item":"minecraft:diamond"
-        }
-        }
-    ]
+    "medecoole" : {
+        "backslot_item":"minecraft:diamond",
+        "head_model":"minecraft:diamond_block"
+    },
+    "mikeiscooler" : {
+        "backslot_item":"minecraft:diamond"
+    }
 }
