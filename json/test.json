@@ -1,7 +1,7 @@
 {
     "medecoole" : {
         "head_model":"minecraft:grass_block",
-        "torso_model":"minecraft:diamond_block",
+        "body_model":"minecraft:diamond_block",
         "left_arm_model":"minecraft:stick",
         "right_arm_model":"minecraft:mace"
     },
