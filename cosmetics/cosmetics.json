@@ -6,5 +6,8 @@
     },
     "callmearthys" : {
         "body_model":"cosmetics:wings_arthys"
-    }
+    },
+    "medecoole" : {
+        "head_model":"cosmetics:horns_larkful"
+    },
 }
