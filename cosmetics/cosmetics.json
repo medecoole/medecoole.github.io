@@ -16,10 +16,7 @@
     "funnycatguy" : {
         "head_model":"cosmetics:cat_ears_cat"
     },
-    "sfthirty" : {
-        "head_model":"cosmetics:tail_midwest"
-    },
     "midwesttt" : {
-        "head_model":"cosmetics:tail_midwest"
+        "body_model":"cosmetics:tail_midwest"
     }
 }
